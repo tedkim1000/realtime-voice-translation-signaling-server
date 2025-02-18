@@ -1,0 +1,24 @@
+{
+  "name": "realtime-voice-translation-signaling-server",
+  "version": "1.0.0",
+  "description": "Signaling server for real-time voice translation using WebRTC and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedkim1000/realtime-voice-translation-signaling-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedkim1000/realtime-voice-translation-signaling-server/issues"
+  },
+  "homepage": "https://github.com/tedkim1000/realtime-voice-translation-signaling-server#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
