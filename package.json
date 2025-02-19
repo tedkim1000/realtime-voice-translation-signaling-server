@@ -2,7 +2,7 @@
   "name": "realtime-voice-translation-signaling-server",
   "version": "1.0.0",
   "description": "Signaling server for real-time voice translation using WebRTC and Socket.io",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
